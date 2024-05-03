@@ -12,6 +12,9 @@
   ],
   "license": "MIT",
   "browserslist": "> 0.25%, not dead",
+  "resolutions": {
+    "graphql": "15.5.0"
+  },
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
@@ -53,6 +56,7 @@
     "lodash": "^4.17.19",
     "prismjs": "^1.27.0",
     "prop-types": "^15.7.2",
+    "punycode": "^2.3.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-helmet": "^6.1.0",
